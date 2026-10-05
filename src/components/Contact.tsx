@@ -18,14 +18,14 @@ const channels = [
   {
     icon: Mail,
     label: "EMAIL",
-    value: "riad.fellah@email.com",
+    value: "fellahriad70@gmail.com",
     href: "mailto:riad.fellah@email.com",
   },
   {
     icon: LinkedinIcon,
     label: "LINKEDIN",
     value: "/in/riad-fellah",
-    href: "https://www.linkedin.com/",
+    href: "https://www.linkedin.com/in/riad-fellah-ba0a20248/",
   },
   {
     icon: GithubIcon,
@@ -114,7 +114,7 @@ export default function Contact() {
                 transmit the briefing and let's build it.
               </p>
               <a
-                href="mailto:riad.fellah@email.com"
+                href="mailto:fellahriad70@gmail.com"
                 className="clip-btn mt-7 inline-flex items-center gap-2 bg-cyber px-8 py-3.5 font-tech text-xs font-bold tracking-[0.2em] text-void transition hover:bg-cyan-300"
               >
                 <Mail size={15} /> TRANSMIT_MESSAGE
