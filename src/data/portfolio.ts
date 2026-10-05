@@ -1,6 +1,6 @@
 export const profile = {
   name: "Ahmed Riadh Fellah",
-  shortName: "Riad Fellah",
+  shortName: "Riadh Fellah",
   title: "Software Engineer @ BADR Bank | Data Scientist",
   tagline:
     "Python • SQL • Machine Learning • Banking Information Systems",
